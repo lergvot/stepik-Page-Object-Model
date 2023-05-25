@@ -1,2 +1,5 @@
 
 selenium_env/
+__pycache__/
+pages/__pycache__/
+*.pyc
